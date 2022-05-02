@@ -1,27 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fd1e3e0c402627d8a1d2ad0c0a24f5e2",
+    "revision": "8831af689bceb029a41f44b9757caa67",
     "url": "/index.html"
   },
   {
-    "revision": "bf49a30415fa3387eae8",
+    "revision": "e09f027fbed294dfdfcc",
     "url": "/static/css/2.0f801562.chunk.css"
   },
   {
-    "revision": "c1ee5024aeb38fa18cfd",
+    "revision": "c147d74d3e5c44896a6e",
     "url": "/static/css/main.f6b203d2.chunk.css"
   },
   {
-    "revision": "bf49a30415fa3387eae8",
-    "url": "/static/js/2.47d6ee57.chunk.js"
+    "revision": "e09f027fbed294dfdfcc",
+    "url": "/static/js/2.d408d7a0.chunk.js"
   },
   {
-    "revision": "c1ee5024aeb38fa18cfd",
-    "url": "/static/js/main.4584d318.chunk.js"
+    "revision": "c147d74d3e5c44896a6e",
+    "url": "/static/js/main.a781a668.chunk.js"
   },
   {
     "revision": "ee6302198a2f447164af",
     "url": "/static/js/runtime-main.1cc7024b.js"
+  },
+  {
+    "revision": "4b885257985491496051844e61d82b51",
+    "url": "/static/media/ayatPng.4b885257.png"
+  },
+  {
+    "revision": "5d1fc1ac1f831b901a1cae7d3fee9eed",
+    "url": "/static/media/eraBgLogo.5d1fc1ac.jpg"
+  },
+  {
+    "revision": "8380e86c8f6037168ccb367900fbd0af",
+    "url": "/static/media/eraBgOne.8380e86c.jpg"
+  },
+  {
+    "revision": "3cdea12e7993585cf2a19cb15b9e5d55",
+    "url": "/static/media/eraBgTwo.3cdea12e.jpg"
   },
   {
     "revision": "74250345a8158a206e603404ccb4d6c4",
